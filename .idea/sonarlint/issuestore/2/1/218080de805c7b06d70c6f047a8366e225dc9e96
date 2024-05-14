@@ -1,0 +1,22 @@
+
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰Ğé½÷1J$30fdd5cf-6ea0-4ef5-a9a8-382484e07a22
+z	java:S135>"YReduce the total number of break and continue statements in this loop to use at most one.(™àä¼ÿÿÿÿÿ8ı©”¿÷1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—üÙøÿÿÿÿ8—Ğé½÷1J$73390f42-46cc-4208-b3b0-5bdc06d45f41
+e
+java:S2386"Make this member "protected".(‰ß‚Ÿûÿÿÿÿ8÷Ğé½÷1J$bfcef378-c4e6-4b4f-aa17-83b2ed174399
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Ê§Ñ8øĞé½÷1J$368975d3-3790-4d2a-ade5-29f5ae05a319
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ó–ïı8úĞé½÷1J$0d56702a-0983-4aa7-8e59-54083520ba8a
+r	java:S106"+Replace this use of System.out by a logger.(ò¨ı«ıÿÿÿÿ8üĞé½÷1J$97714cf9-cd3a-4dbf-b02a-c058dc075048
+m	java:S106"+Replace this use of System.out by a logger.(Åêùæ8şĞé½÷1J$4098cb29-3f87-4606-80e5-8b6073521892
+~	java:S125"<This block of commented-out lines of code should be removed.(ìÑÒã8ÿĞé½÷1J$bfa81247-61f1-41a3-bc53-ac8630af099f
+r	java:S106"+Replace this use of System.out by a logger.(¸Ğ¹©üÿÿÿÿ8ÿĞé½÷1J$01bc7402-ad89-4209-989b-dd554ddc71fb
+r	java:S106"+Replace this use of System.out by a logger.(ÀĞüÿÿÿÿ8ÿĞé½÷1J$27b3af1d-90d9-440e-a7e5-9f557dd8f5c7
+~	java:S125"<This block of commented-out lines of code should be removed.(ªñüñ8ÿĞé½÷1J$de8d74cb-e49e-41bc-baec-a11e7bb0dd6a
+m	java:S106!"+Replace this use of System.out by a logger.(Å…ÂÌ8€Ñé½÷1J$ea8ff4fe-e929-4c29-afe3-977c1d5d5f71
+l	java:S106'"+Replace this use of System.out by a logger.(Ê°8‚Ñé½÷1J$4b7f1d1f-7d94-4e2e-951b-2479665618b1
+r	java:S106*"+Replace this use of System.out by a logger.(Şù…ßşÿÿÿÿ8“æë½÷1J$32bff0e1-57fc-4cb5-8f18-07ba67ae33d2
+m	java:S106+"+Replace this use of System.out by a logger.(ª°¨º8Œµí½÷1J$a8bc0230-37bd-4ef1-bb3f-0ee43f33a256
+r	java:S106."+Replace this use of System.out by a logger.(èìÿùÿÿÿÿ8À¼ÿ½÷1J$8126b2c2-cab9-41eb-936e-dd37b257477f
+m	java:S106M"+Replace this use of System.out by a logger.(™óĞé8Ã¼ÿ½÷1J$829f428c-6552-4e06-a26b-e92354b1b43f

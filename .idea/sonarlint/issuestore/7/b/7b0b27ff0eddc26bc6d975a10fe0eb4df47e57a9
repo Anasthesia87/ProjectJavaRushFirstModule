@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í±ÊŠ8ÉïÀ–÷1J$9fef734c-73dc-439f-9b2a-8793cf621675
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8œ§í·÷1J$a7611fc2-ee6c-4ed8-a8da-da94e85efac5
+m	java:S106"+Replace this use of System.out by a logger.(¤ü‹8ÖïÀ–÷1J$7b1874d9-8376-457a-85a8-5027c243d13d
+r	java:S106"+Replace this use of System.out by a logger.(¢ª Æùÿÿÿÿ8×ïÀ–÷1J$b6214b1e-42d1-426b-94ec-483ab0b95838
+r	java:S106"+Replace this use of System.out by a logger.(ºÙÏÕûÿÿÿÿ8ØïÀ–÷1J$b8b8fcf3-1cd4-4376-aa18-470b59b204af
+m	java:S106"+Replace this use of System.out by a logger.(ò÷æŠ8ØïÀ–÷1J$73d38cd4-1605-46aa-b59e-2c65bce206a9
+m	java:S106"+Replace this use of System.out by a logger.(§ôğ¤8ØïÀ–÷1J$97a64597-9a17-4086-9fdb-ccd9a9fbb083
+~
+java:S6880"6Replace the chain of if/else with a switch expression.(†şÖ³úÿÿÿÿ8ÚïÀ–÷1J$1fa4ac59-3085-4da3-98f3-0ea2e94e4c06
+r	java:S106"+Replace this use of System.out by a logger.(ƒœ½İùÿÿÿÿ8ÜïÀ–÷1J$266a034e-6c8f-41d8-9390-eb5f6e92f12d
+r	java:S106 "+Replace this use of System.out by a logger.(ò´İşùÿÿÿÿ8ÜïÀ–÷1J$75c44e24-0592-40ba-b882-75b4ef40c70c

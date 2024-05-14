@@ -1,0 +1,21 @@
+
+	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾ƒÃ½÷1J$5a495b01-2067-4f35-8e79-31f66295e2e2
+z	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(™àä¼ÿÿÿÿÿ8ûË“¿÷1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áç•¦8ÀƒÃ½÷1J$27fd47ac-e439-420b-aee8-632b1aef1d28
+e
+java:S2386"Make this member "protected".(‰ß‚Ÿûÿÿÿÿ8ÄƒÃ½÷1J$82c92a4e-77ba-4383-9341-c6e47ade3870
+}
+java:S1118":Add a private constructor to hide the implicit public one.(óŞÊç8ÅƒÃ½÷1J$8aad5ae9-7fb8-4cd2-83a9-89773110a83b
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(§¿Æ›8ÇƒÃ½÷1J$a9ae456d-07df-4846-bf32-5b962395ed21
+m	java:S106"+Replace this use of System.out by a logger.(š§ßî8ÈƒÃ½÷1J$6022bf55-95d6-48da-b0b3-9c81f3aff2f8
+r	java:S106"+Replace this use of System.out by a logger.(¿Ô¸Æùÿÿÿÿ8ÊƒÃ½÷1J$68dcc2f7-f1bf-483b-a962-e6a6bcf70cc1
+r	java:S106"+Replace this use of System.out by a logger.(¨âÖüÿÿÿÿ8ÊƒÃ½÷1J$496645b8-b86d-4947-a5af-168f0314101b
+r	java:S106"+Replace this use of System.out by a logger.(ïËØóùÿÿÿÿ8ÊƒÃ½÷1J$71d478fe-f873-4bd9-aec7-994d30d0476e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ôèéëøÿÿÿÿ8ËƒÃ½÷1J$55b79275-bc73-4ef4-9bd2-5f1c801039a1
+m	java:S106 "+Replace this use of System.out by a logger.(Å…ÂÌ8ËƒÃ½÷1J$03c425dd-2363-49d7-9638-14294cc57b1c
+r	java:S106&"+Replace this use of System.out by a logger.(Å½õ±ÿÿÿÿÿ8ÌƒÃ½÷1J$4ec342e4-1460-4114-9a8d-46a90326b364
+l	java:S106)"+Replace this use of System.out by a logger.(’„€K8ÌƒÃ½÷1J$cb5b3e7d-06c3-4ff6-b40f-c9ca427c3f93
+r	java:S106*"+Replace this use of System.out by a logger.(®¾ÉÎşÿÿÿÿ8ÌƒÃ½÷1J$2478f167-29f9-44e4-a722-35fc36b25894
+r	java:S106-"+Replace this use of System.out by a logger.(èìÿùÿÿÿÿ8ÏƒÃ½÷1J$6431e124-c590-4264-b005-829618d20fc3
+r	java:S106I"+Replace this use of System.out by a logger.(ğŒËãÿÿÿÿÿ8ïôÙ½÷1J$96392483-2c41-44bc-86aa-c7f78f9a60db
