@@ -13,7 +13,7 @@ public class CaesarCipherStart {
         while (true) {
 
             Scanner scan = new Scanner(System.in);
-            System.out.println("\n\n--------***Caesars Cipher***--------");
+            System.out.println("\n\n--------***Caesar Cipher***--------");
             System.out.println("Please, choose one of the following options and press enter:");
             System.out.println("1. Encrypt Text");
             System.out.println("2. Decrypt Text");
